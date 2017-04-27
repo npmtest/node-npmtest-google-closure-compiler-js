@@ -1,6 +1,6 @@
 # npmtest-google-closure-compiler-js
 
-#### test coverage for  [google-closure-compiler-js (v20170409.0.0)](https://developers.google.com/closure/compiler/)  [![npm package](https://img.shields.io/npm/v/npmtest-google-closure-compiler-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-closure-compiler-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-closure-compiler-js.svg)](https://travis-ci.org/npmtest/node-npmtest-google-closure-compiler-js)
+#### basic test coverage for  [google-closure-compiler-js (v20170423.0.0)](https://developers.google.com/closure/compiler/)  [![npm package](https://img.shields.io/npm/v/npmtest-google-closure-compiler-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-closure-compiler-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-closure-compiler-js.svg)](https://travis-ci.org/npmtest/node-npmtest-google-closure-compiler-js)
 
 #### Check, compile, transpile, optimize and compress JavaScript with Closure Compiler in JS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-google-closure-compiler-js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-google-closure-compiler-js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-google-closure-compiler-js/build/coverage.html/index.html)
 
@@ -55,10 +55,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "e71063ab2bf26db794732222ec76ba07403df854",
-        "tarball": "https://registry.npmjs.org/google-closure-compiler-js/-/google-closure-compiler-js-20170409.0.0.tgz"
+        "shasum": "e9e8b40dadfdf0e64044c9479b5d26d228778fbc",
+        "tarball": "https://registry.npmjs.org/google-closure-compiler-js/-/google-closure-compiler-js-20170423.0.0.tgz"
     },
-    "gitHead": "1ff33d3d01d1266f313220d526d1a542ae5ccb4c",
+    "gitHead": "9b9de5b0e3d5ca05e213aa727802136c8db95641",
     "homepage": "https://developers.google.com/closure/compiler/",
     "keywords": [
         "javascript",
@@ -99,7 +99,7 @@
         "url": "git+https://github.com/google/closure-compiler-js.git"
     },
     "scripts": {},
-    "version": "20170409.0.0"
+    "version": "20170423.0.0"
 }
 ```
 
