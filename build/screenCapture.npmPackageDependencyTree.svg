@@ -4,7 +4,7 @@
 <tspan x="10" y="26">10 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">└─┬ google-closure-compiler-js@20170409.0.0 </tspan>
+<tspan x="10" y="74">└─┬ google-closure-compiler-js@20170423.0.0 </tspan>
 <tspan x="10" y="90">  ├── minimist@1.2.0 </tspan>
 <tspan x="10" y="106">  ├─┬ vinyl@2.0.2 </tspan>
 <tspan x="10" y="122">  │ ├── clone@1.0.2 </tspan>
